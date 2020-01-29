@@ -1,4 +1,6 @@
 # web
+<!DOCTYPE html>
+<html>
 .container {
   width: 70%;
   margin: auto;
@@ -40,3 +42,4 @@ footer {
   font-family: 'Indie Flower', cursive;
 
 }
+</html>
