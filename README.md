@@ -1,6 +1,7 @@
-# web
+
 <!DOCTYPE html>
 <html>
+  # web
 .container {
   width: 70%;
   margin: auto;
